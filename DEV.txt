@@ -1,0 +1,61 @@
+# Recursos DEV
+
+## Curso de HTML
+
+https://www.youtube.com/watch?v=6pIIWrz_7fQ&list=PLO3atjC_gMedQl2X0Q9C3VBs9GfAzxooZ
+## Curso de CSS
+
+https://www.youtube.com/watch?v=O1pmHuI1-6A&list=PLO3atjC_gMeelCzC0uQVWrWEpxbYQ8xF6
+## Curso de Git
+
+https://www.youtube.com/watch?v=VdGzPZ31ts8
+
+## Curso de SQL
+
+https://youtu.be/uUdKAYl-F7g
+
+## Curso de Linux
+
+https://youtube.com/playlist?list=PL2Z95CSZ1N4FKsZQKqCmbylDqssYFJX5A
+
+## Curso de Docker
+
+https://youtu.be/CV_Uf3Dq-EU
+
+## Libros GRATIS
+
+https://goalkicker.com/
+
+Si necesitas una mano para saber que debes estudiar para dedicarte a una rama de IT, la pagina de https://roadmap.sh te puede dar un poco de luz.
+
+
+ 
+1
+A
+Leonel Gareis
+2 respuestas
+Leonel Gareis
+Leonel Gareis
+14:16
+
+Link al repositorio de la clase:
+
+https://github.com/gareisdev/coder44470
+
+https://opengraph.githubassets.com/a185aa9ff7bcdd837c1c7b47aa22a7ae600c47e877fddfbb6e05e931592d2193/gareisdev/coder44470
+GitHub - gareisdev/coder44470: Proyecto de Django en clase
+Proyecto de Django en clase. Contribute to gareisdev/coder44470 development by creating an account on GitHub.
+GITHUB.COM
+ 
+2
+Último viernes a las 11:38
+M
+Miguel Ángel Mejía Cabello
+11:38
+
+Hola Leonel, tengo una consulta. Si quiero que en una vista se pueda visualizar un dataframe hecho en pandas o un gráfico en pyplot como podría embeberlo dentro del un página.
+
+Leonel Gareis:
+Link al repositorio de la clase:
+
+https://github.com/gareisdev/coder44470
